@@ -54,7 +54,7 @@
     "d3-scale-chromatic": "3",
     "data-bind-mapper": "1",
     "frame-ticker": "1",
-    "h3-js": "4",
+    "h3-js": "4.3.0",
     "index-array-by": "1",
     "kapsule": "^1.16",
     "three-conic-polygon-geometry": "2",
